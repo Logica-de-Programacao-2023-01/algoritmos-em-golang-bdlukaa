@@ -45,21 +45,13 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build kg_to_lb.go">
-    <configuration name="go build aumento_de_salario.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build multiplo_3_4.go">
+    <configuration name="go build greatest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-bdlukaa" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/aumento_de_salario.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build discount.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-bdlukaa" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/discount.go" />
+      <filePath value="$PROJECT_DIR$/greatest.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build kg_to_lb.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -70,29 +62,37 @@
       <filePath value="$PROJECT_DIR$/kg_to_lb.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build post_past.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build multiplo_3_4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-bdlukaa" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/post_past.go" />
+      <filePath value="$PROJECT_DIR$/multiplo_3_4.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build work_days.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build odd_even.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-bdlukaa" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/work_days.go" />
+      <filePath value="$PROJECT_DIR$/odd_even.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build smaller.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-bdlukaa" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/smaller.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build multiplo_3_4.go" />
+        <item itemvalue="Go Build.go build odd_even.go" />
+        <item itemvalue="Go Build.go build smaller.go" />
+        <item itemvalue="Go Build.go build greatest.go" />
         <item itemvalue="Go Build.go build kg_to_lb.go" />
-        <item itemvalue="Go Build.go build discount.go" />
-        <item itemvalue="Go Build.go build work_days.go" />
-        <item itemvalue="Go Build.go build post_past.go" />
-        <item itemvalue="Go Build.go build aumento_de_salario.go" />
       </list>
     </recent_temporary>
   </component>
